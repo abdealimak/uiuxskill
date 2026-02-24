@@ -448,11 +448,3 @@ gh pr create
 ```
 
 See [CLAUDE.md](CLAUDE.md) for detailed development guidelines.
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=nextlevelbuilder/ui-ux-pro-max-skill&type=Date)](https://star-history.com/#nextlevelbuilder/ui-ux-pro-max-skill&Date)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
