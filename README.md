@@ -1,4 +1,3 @@
-# [UI UX Pro Max](https://uupm.cc)
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms and frameworks.
 
 <p align="center">
