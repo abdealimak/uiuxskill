@@ -1,27 +1,5 @@
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms and frameworks.
 
-<p align="center">
-  <a href="https://uupm.cc">
-    <img src="screenshots/website.png" alt="UI UX Pro Max" width="800">
-  </a>
-</p>
-
-<p align="center">
-  <b>If you find this useful, consider supporting the project:</b><br><br>
-  <a href="https://paypal.me/uiuxpromax"><img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donate"></a>
-</p>
-
-<p align="center">
-  <i>Other projects</i><br>
-  <a href="https://nextlevelbuilder.io">Next Level Builder</a> | <a href="https://claudekit.cc">ClaudeKit</a>
-</p>
-
-## What's New in v2.0
-
-### Intelligent Design System Generation
-
-The flagship feature of v2.0 is the **Design System Generator** - an AI-powered reasoning engine that analyzes your project requirements and generates a complete, tailored design system in seconds.
-
 ```
 +----------------------------------------------------------------------------------------+
 |  TARGET: Serenity Spa - RECOMMENDED DESIGN SYSTEM                                      |
